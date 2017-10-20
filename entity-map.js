@@ -6,6 +6,21 @@ var EntityMap = {
 	'apos': "'",
 	'laquo': '«',
 	'raquo': '»',
+	
+	'aacute': 'á',
+	'eacute': 'é',
+	'iacute': 'í',
+	'oacute': 'ó',
+	'uacute': 'ú',
+	'ntilde': 'ñ',
+
+	'Aacute': 'Á',
+	'Eacute': 'É',
+	'Iacute': 'Í',
+	'Oacute': 'Ó',
+	'Uacute': 'Ú',
+	'Uacute': 'Ú',
+	'Ntilde': 'Ñ',
 
 	// Math
 
