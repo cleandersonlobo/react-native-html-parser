@@ -17,7 +17,7 @@ var EntityMap = {
 	'atilde': 'ã',
 	
 	'Atilde': 'Ã',
-	'ccedil': 'Ç',
+	'Ccedil': 'Ç',
 	'Aacute': 'Á',
 	'Eacute': 'É',
 	'Iacute': 'Í',
