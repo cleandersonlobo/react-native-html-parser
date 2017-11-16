@@ -13,7 +13,11 @@ var EntityMap = {
 	'oacute': 'ó',
 	'uacute': 'ú',
 	'ntilde': 'ñ',
-
+	'ccedil': 'ç',
+	'atilde': 'ã',
+	
+	'Atilde': 'Ã',
+	'ccedil': 'Ç'
 	'Aacute': 'Á',
 	'Eacute': 'É',
 	'Iacute': 'Í',
